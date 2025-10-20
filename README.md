@@ -9,9 +9,7 @@ This repository contains a Document-Based Question-Answering (QA) System designe
 - **User Interface**: Provides a Gradio-based web interface for uploading documents, asking questions, and viewing answers with verification reports.
 - **Performance Optimization**: Implements caching to avoid reprocessing unchanged files and displays a "Processing..." status during LLM calls.
 
-## Installation
-
-### Prerequisites
+## Prerequisites
 - Python 3.8 or higher
 - Access to the Poe API (requires an API key for GPT-4o-mini)
 - Internet connection for API calls and library downloads
